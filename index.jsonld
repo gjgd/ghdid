@@ -39,12 +39,5 @@
       "controller": "did:github:gjgd",
       "publicKeyBase58": "Awm5qLL3WwLV7RAuKQTxaYndTMkhtYPNixAyxrd7ZAX"
     }
-  ],
-  "proof": {
-    "type": "Ed25519Signature2018",
-    "created": "2020-04-28T16:56:34Z",
-    "verificationMethod": "did:github:gjgd#CQeTk_FG19VLdJT_RSTMajg_2PigcOYYOeNvZ-Mzpcg",
-    "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..CgPGjXtvN7VtGfgbLNZXUaklTGukDNc9sY_pzLNnNJmxGMTr4rZb-CGzWjOrpo6kk0BDmKEHo_lnfcHY2Zj7Dw"
-  }
+  ]
 }
