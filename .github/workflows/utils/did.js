@@ -57,7 +57,7 @@ const signDidDocument = async didDocument => {
   const primaryPublicKey = didDocument.publicKey.find(
     (pk) => pk.type === 'Ed25519VerificationKey2018',
   );
-  console.log({ primaryKey  });
+  console.log({ primaryPublicKey });
   const [did, kid] = primaryPublicKey.id.split('#');
   console.log({ did, kid });
   const primaryKey = wallet.keys[kid];
