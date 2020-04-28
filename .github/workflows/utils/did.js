@@ -60,7 +60,7 @@ const signDidDocument = async didDocument => {
   console.log({ primaryPublicKey });
   const [did, kid] = primaryPublicKey.id.split('#');
   console.log({ did, kid });
-  console.log(wallet && wallet.keys);
+  console.log(Object.keys(wallet.keys));
   const primaryKey = wallet.keys[kid];
   const publicKeyId = `${did}#${primaryKey.kid}`;
   const signed = await jsigs.sign(didDocument, {
