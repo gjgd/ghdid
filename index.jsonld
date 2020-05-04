@@ -9,6 +9,12 @@
       "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXqh2+xMFK4EEAAoCAwR2PP0CM6D9mHe7/U8uTM3jYbFz5AplyZE43Jm1\r\nVdpxP9gewWZYu3mgWkM84Xz02XtrXIz6JlUKqQoR+0c7d1iYzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJeqHb7BgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQ8mYJ+2/BPYwZqAD/ctdWEx0vLwdYOHrFBW7QgTXI\r\nVsRm2H9peVrb+iDc27oA/1hFGrK+jgL3lgQPoWo0AdAnOiQnhVCQ+B9JQ9Nt\r\n2ZCYzlMEXqh2+xIFK4EEAAoCAwSG/xVTu5u65hTvct5cPJd5EGE4neuZZMfk\r\nTJVp++Ep/4hZ0bZaCyHvZUS3BBGjZW7oyvUTrFAZtWnNNtdtir3jAwEIB8Jh\r\nBBgTCAAJBQJeqHb7AhsMAAoJEPJmCftvwT2MppMBALP+AZaFPtGiEKJ42Wdy\r\nn0kWrnfgk6IA9uuaT/CHiYPxAQC1GVFg/HsSCikeSmOV/Te0kb60G13+ffln\r\n9EQnBMQJbw==\r\n=2eMS\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
     },
     {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:gjgd#hszjLOMLkYcG3HnqnmNCVbWZuyTQasWGc3mROSyjv9Y",
+      "controller": "did:github:gjgd",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXqh2/BMFK4EEAAoCAwRkyPtbVFiRZOy7GFkGJzaQA+wRI7p36k9m8Ctm\r\n0/NtMx+9mbFiJ7g7Cs+TdAWe6YpaCJ1fkwlwSUu5W77XUbntzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJeqHb8BgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQZLzxjRVOueMSrQD+Ip09Js37X4iAPGck+ckHtUTG\r\nzb6FNPuUnzsqnkl2J2MA/1xFiuvfyjiQdLpJuO4Y1FwEhjf9NmqhLKbkKQuy\r\nKXAwzlMEXqh2/BIFK4EEAAoCAwSipNQyAifpDikh1UKHFX4Lksnv0uNhQYWa\r\nfDchSCNTuatgtr4zNS+frJ0ZgZ3YPcsksv/llZEAJw9qfIIHEiEdAwEIB8Jh\r\nBBgTCAAJBQJeqHb8AhsMAAoJEGS88Y0VTrnj4XgBAOJmdDXz3ySzdK6XzmK6\r\nQPPnPNCc3jDrHOTyllhz5TuEAQCAYNZjO1hV+M1tv9GZFnt32Dgev7LgjuYC\r\n8+Fn3l839g==\r\n=Muqe\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
       "type": "Ed25519VerificationKey2018",
       "id": "did:github:gjgd#edQPY-F4N3AOBWb7T3VPiY9zJ7VxdKmPG6cB8KV0a94",
       "controller": "did:github:gjgd",
