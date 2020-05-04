@@ -42,9 +42,9 @@
   ],
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2020-05-04T14:51:48Z",
+    "created": "2020-05-04T14:53:47Z",
     "verificationMethod": "did:github:gjgd#edQPY-F4N3AOBWb7T3VPiY9zJ7VxdKmPG6cB8KV0a94",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..B0l1SiYxzpSaHpsS8sc074D9XZutMqHwUXlOSs84U2C7HDnsJeRFdhhdAIOuYpvb6gSc_C0I2D43Chnb-uTMCg"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..u1rSYiUEeM-_u6SQ1YJgLIQE3M5qrtftxrX8ha7VInioxmRkshADqmhogY425zrzY6143xfBQUXreMmUX6fxBg"
   }
 }
